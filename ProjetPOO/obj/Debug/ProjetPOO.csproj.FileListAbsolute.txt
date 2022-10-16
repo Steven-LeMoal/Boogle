@@ -1,0 +1,7 @@
+C:\Users\steve\source\repos\ProjetPOO\obj\Debug\ProjetPOO.csprojAssemblyReference.cache
+C:\Users\steve\source\repos\ProjetPOO\obj\Debug\ProjetPOO.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\ProjetPOO\bin\Debug\ProjetPOO.exe.config
+C:\Users\steve\source\repos\ProjetPOO\bin\Debug\ProjetPOO.exe
+C:\Users\steve\source\repos\ProjetPOO\bin\Debug\ProjetPOO.pdb
+C:\Users\steve\source\repos\ProjetPOO\obj\Debug\ProjetPOO.exe
+C:\Users\steve\source\repos\ProjetPOO\obj\Debug\ProjetPOO.pdb
